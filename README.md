@@ -14,6 +14,6 @@ Pack:<br>
 - PyQT5
 - matplotlib(using FunAnimation to implement realtime dynamic data visualiz)
 
-![](https://github.com/MacwinWin/Matplotlib_Oscilloscope/blob/master/Peek%202019-01-12%2016-10.gif)
+![](https://github.com/MacwinWin/Matplotlib_Oscilloscope/blob/master/Peek%202019-01-12%2016-57.gif)
 
 You can easily change the code to satisfy your own device, enjoy it!      
