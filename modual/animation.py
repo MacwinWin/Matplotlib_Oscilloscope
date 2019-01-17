@@ -21,6 +21,10 @@ class animationClass():
         self.x_time = []
         self.on_start()
     def update_line(self, i):
+        self.y_voltage = []
+        self.y_current = []
+        self.y_power = []
+        self.x_time = []
         try:
             with open('data0.txt', 'r') as f:
                 data = f.read()
